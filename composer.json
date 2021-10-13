@@ -1,0 +1,9 @@
+{
+    "name":"mapa/programador",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+
+}
